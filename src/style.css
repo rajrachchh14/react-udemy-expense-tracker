@@ -1,0 +1,87 @@
+/* body{
+  background-color: rgb(246, 255, 126);
+} */
+.bg-error {
+  background-color: rgb(241, 149, 149);
+  color: rgb(255, 0, 0);
+}
+* {
+  margin-top: 5px;
+}
+.barDiv {
+  padding-left: 47px;
+}
+.displayDiv {
+  padding: 20px !important;
+}
+
+.qty_space {
+  margin: 5px;
+}
+.btn-danger {
+  border-radius: 25px !important;
+  font-weight: bold;
+
+  background: #f37f32;
+  border: 1px solid white;
+}
+
+.col-md-3 {
+  padding: 10px;
+}
+
+.bg-dark {
+  background-color: #ffc739c9 !important;
+}
+
+.navbar-nav > a {
+  color: white !important;
+  font-weight: bolder;
+  font-size: 20px;
+  font-family: inherit;
+}
+
+.btn-dark {
+  border-radius: 26px;
+  background-color: rgb(243, 127, 50);
+  border: white 1px solid;
+  width: 100px;
+}
+.btn-dark:active {
+  background-color: white !important;
+  color: red !important;
+  border: rgb(243, 127, 50) !important;
+}
+/* , .btn-light:active ,  .btn-light:hover */
+.btn-light {
+  border-radius: 26px !important;
+  background-color: rgb(243, 127, 50) !important;
+  border: white 1px solid !important;
+  width: 100px !important;
+  color: white !important;
+}
+
+.btn-success {
+  border-radius: 26px !important;
+
+  border: white 1px solid !important;
+  width: 100px !important;
+  color: white !important;
+}
+
+.CustomCard {
+  /* width: 18rem; */
+  background: #ffc1075c;
+}
+
+.card {
+  background: #ffc1075c;
+}
+
+.cartImg {
+  height: 50px;
+}
+/* 
+.data{
+  margin: 100px;
+} */
